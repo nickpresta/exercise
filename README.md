@@ -14,8 +14,8 @@
 
 ### Running
 
-* 30 minutes: 6 speed, 290 calories, 5 incline
-* 30 minutes: 6 speed, 287 calories, 5 incline
+* 30 minutes: 6mph, 290 calories, 5 incline
+* 30 minutes: 6mph, 287 calories, 5 incline
 
 Total: 577 calories, 60 minutes
 
@@ -53,7 +53,29 @@ Total: 577 calories, 60 minutes
 
 ### Running
 
-* 30 minutes: 6-7.5 speed, 304 calories, 3.2 distance, 5 incline
+* 30 minutes: 6-7.5mph, 304 calories, 3.2 miles, 5 incline
+
+### Weight Training (30min)
+
+2 sets of 10 reps:
+
+* bench press (60lbs)
+* abdominal crunches (60lbs)
+* seated shoulder press (60lbs)
+* seated trunk rotation (30lbs)
+* standing bicep curls (60lbs)
+* seated lat rows (60lbs)
+* seated cross pulls (30lbs)
+
+## April 23 2014
+
+### Body Weight
+
+* 192 lbs (@9:30pm)
+
+### Running
+
+* 30 minutes: 6.5mph, 308 calories, 3.24 miles, 5 incline
 
 ### Weight Training (30min)
 
