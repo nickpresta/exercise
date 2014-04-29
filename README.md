@@ -6,10 +6,10 @@
 
 ## Methodology
 
-* [Weights] Slow movements: 4 seconds for active and 4 seconds for negative phase
-* [Running] Consistent pace: fast walk, speedy jog
-* Weight yourself at the same time every day
-* Never give up, never surrender
+* [Weights] Slow movements: 4 seconds for active and 4 seconds for negative phase.
+* [Running] Consistent pace: fast walk, speedy jog. On treadmill unless otherwise noted.
+* Weight yourself at the same time every day.
+* Never give up, never surrender.
 
 ## April 18 2014
 
@@ -137,3 +137,27 @@ Rest day
 * standing bicep curls (60lbs)
 * seated lat rows (60lbs)
 * seated cross pulls (30lbs)
+
+## April 28 2014
+
+### Body Weight
+
+* 187 lbs
+
+### Running
+
+* 15 minutes (outside): jogging pace
+* 15 minutes (treadmill): 7mph, 161 calories, 1.71 miles, 5 incline
+
+
+### Weight Training (30min)
+
+2 sets of 10 reps:
+
+* bench press (80lbs)
+* abdominal crunches (80lbs)
+* seated shoulder press (80lbs)
+* seated trunk rotation (40lbs)
+* standing bicep curls (80lbs)
+* seated lat rows (80lbs)
+* seated cross pulls (40lbs)
