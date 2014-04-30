@@ -161,3 +161,21 @@ Rest day
 * standing bicep curls (80lbs)
 * seated lat rows (80lbs)
 * seated cross pulls (40lbs)
+
+## April 29 2014
+
+### Body Weight
+
+* 187 lbs
+
+### Weight Training (30min)
+
+2 sets of 10 reps:
+
+* bench press (80lbs)
+* abdominal crunches (80lbs)
+* seated shoulder press (80lbs)
+* seated trunk rotation (40lbs)
+* standing bicep curls (80lbs)
+* seated lat rows (80lbs)
+* seated cross pulls (40lbs)
