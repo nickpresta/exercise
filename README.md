@@ -149,7 +149,6 @@ Rest day
 * 15 minutes (outside): jogging pace
 * 15 minutes (treadmill): 7mph, 161 calories, 1.71 miles, 5 incline
 
-
 ### Weight Training (30min)
 
 2 sets of 10 reps:
@@ -179,3 +178,29 @@ Rest day
 * standing bicep curls (80lbs)
 * seated lat rows (80lbs)
 * seated cross pulls (40lbs)
+
+## May 2 2014
+
+### Body Weight
+
+* 186.5 lbs
+
+### Running
+
+* 30 minutes (treadmill): 7/6.5mph, 317 calories, 3.35 miles, 5 incline
+
+### Weight Training (30min)
+
+2 sets of 10 reps:
+
+* bench press (80lbs)
+* abdominal crunches (80lbs)
+* seated shoulder press (80lbs)
+* seated trunk rotation (40lbs)
+* standing bicep curls (80lbs)
+* seated lat rows (80lbs)
+* seated cross pulls (40lbs)
+
+Other:
+
+* 4 planks for 10 seconds each
