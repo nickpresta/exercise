@@ -204,3 +204,27 @@ Rest day
 Other:
 
 * 4 planks for 10 seconds each
+
+## May 4 2014
+
+### Body Weight
+
+### Running
+
+* 30 minutes (treadmill): 6.5mph, 312 calories, 3.23 miles, 5 incline
+
+### Weight Training (30min)
+
+2 sets of 10 reps:
+
+* bench press (80lbs)
+* abdominal crunches (80lbs)
+* seated shoulder press (80lbs)
+* seated trunk rotation (40lbs)
+* standing bicep curls (80lbs)
+* seated lat rows (80lbs)
+* seated cross pulls (40lbs)
+
+Other:
+
+* 4 planks for 10 seconds each
