@@ -228,3 +228,25 @@ Other:
 Other:
 
 * 4 planks for 10 seconds each
+
+## May 7 2014
+
+### Body Weight
+
+* 184 lbs
+
+### Weight Training (30min)
+
+2 sets of 10 reps:
+
+* bench press (80lbs)
+* abdominal crunches (80lbs)
+* standing lateral deltoid raise (20lbs)
+* standing bicep curls (40lbs)
+* seated trunk rotation (40lbs)
+* seated lat rows (40lbs)
+* seated cross pulls (40lbs)
+
+Other:
+
+* 4 planks for 10 seconds each
