@@ -2,7 +2,7 @@
 
 ## Resources
 
-* [Bowflex routines](http://www.build-some-muscle.com/20-minute-workout-bowflex-routines.html)
+* [Bowflex routines](http://www.bowflex-exercises.com/exercises/index.html)
 
 ## Methodology
 
@@ -234,6 +234,34 @@ Other:
 ### Body Weight
 
 * 184 lbs
+
+### Weight Training (30min)
+
+2 sets of 10 reps:
+
+* bench press (80lbs)
+* abdominal crunches (80lbs)
+* standing lateral deltoid raise (20lbs)
+* standing bicep curls (40lbs)
+* seated trunk rotation (40lbs)
+* seated lat rows (40lbs)
+* seated cross pulls (40lbs)
+
+Other:
+
+* 4 planks for 10 seconds each
+
+## May 12 2014
+
+### Body Weight
+
+* 182 lbs
+
+### Running
+
+* 15 minutes (treadmill): 6.5 - 8 mph, 181 calories, 1.72 miles, 5 incline
+
+* 7min40s mile! Next stop, 7min mile!
 
 ### Weight Training (30min)
 
