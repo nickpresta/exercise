@@ -278,3 +278,30 @@ Other:
 Other:
 
 * 4 planks for 10 seconds each
+
+## May 18 2014
+
+### Body Weight
+
+* 180 lbs
+
+### Running
+
+* 6 minutes 12 seconds (treadmill): 10 mph, 74 calories, 1 mile, 1 incline
+* 2 minutes 42 seconds (treadmill): 12 mph, 49 calories, 0.5 mile, 2 incline
+
+### Weight Training (30min)
+
+2 sets of 15 reps:
+
+* bench press (85lbs)
+* abdominal crunches (85lbs)
+* standing lateral deltoid raise (25lbs)
+* standing bicep curls (45lbs)
+* seated trunk rotation (45lbs)
+* seated lat rows (45lbs)
+* seated cross pulls (45lbs)
+
+Other:
+
+* 4 planks for 15 seconds each
