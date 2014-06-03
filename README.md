@@ -410,3 +410,30 @@ Other:
 Other:
 
 * 4 planks for 15 seconds each
+
+## June 2 2014
+
+### Body Weight
+
+* 175 lbs
+
+### Running
+
+* 10 minutes (treadmill): 8 mph, 124.5 calories, 1.32 miles, 5 incline
+* 15 minutes (outside): walking pace
+
+### Weight Training (30min)
+
+2 sets of 15 reps:
+
+* bench press (100lbs per arm)
+* standing bicep curls (50lbs per arm)
+* seated trunk rotation (50lbs)
+* seated lat rows (50lbs per arm)
+* seated cross pulls (50lbs)
+* abdominal crunches (85lbs)
+* standing lateral deltoid raise (25lbs)
+
+Other:
+
+* 4 planks for 15 seconds each
