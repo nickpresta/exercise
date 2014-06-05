@@ -426,7 +426,7 @@ Other:
 
 2 sets of 15 reps:
 
-* bench press (100lbs per arm)
+* bench press (100lbs total)
 * standing bicep curls (50lbs per arm)
 * seated trunk rotation (50lbs)
 * seated lat rows (50lbs per arm)
@@ -437,3 +437,42 @@ Other:
 Other:
 
 * 4 planks for 15 seconds each
+
+## June 3 2014
+
+### Body Weight
+
+* 175 lbs
+
+### Running
+
+* 15 minutes (outside): walking pace
+
+## June 4 2014
+
+### Body Weight
+
+* 175 lbs
+
+### Running
+
+* 5 minutes (treadmill): 9 mph, 77 calories, 0.73 miles, 5 incline
+* 15 minutes (outside): walking pace
+
+### Weight Training (30min)
+
+2 sets of 15 reps:
+
+* bench press (100lbs)
+* standing bicep curls (50lbs per arm)
+* seated trunk rotation (50lbs)
+* seated lat rows (50lbs per arm)
+* seated cross pulls (50lbs)
+* abdominal crunches (100lbs)
+* standing lateral deltoid raise (25lbs)
+
+Other:
+
+* 4 planks for 15 seconds each
+
+
