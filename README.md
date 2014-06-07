@@ -475,4 +475,23 @@ Other:
 
 * 4 planks for 15 seconds each
 
+## June 5 2014
+
+### Body Weight
+
+* 174 lbs
+
+### Cardio
+
+* Biked for 15mins: 5km total, ~19km/h average speed
+
+## June 6 2014
+
+### Body Weight
+
+* 173 lbs
+
+### Cardio
+
+* 30 minutes (outside): walking pace
 
